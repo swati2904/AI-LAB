@@ -1,0 +1,13 @@
+BFS
+X
+Z
+4
+X Y 2
+X Z 3
+Y Z 1
+Z W 2
+3
+X 5
+Y 2
+Z 0
+W 7
